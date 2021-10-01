@@ -12,7 +12,7 @@
 
 ## 🧐 About
 
-- 👨‍💻 My blog: https://shadabwahidullah.github.io/Portfolio_2/
+- 👨‍💻 My portfolio: https://shadabwahidullah.github.io/Portfolio_2/
 - 📫 How to reach me: shadabwahidullah@gmail.com
 - 🌱 Languages and Tools: 
 
