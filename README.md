@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [Wahidullah](https://github.com/shadabwahidullah)！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 **Full-Stack Developer** 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 **Chess** 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
+𝗜'𝗺 **[Wahidullah](https://github.com/shadabwahidullah)**！𝗜'𝗺 𝗮 𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿 **Full-Stack Developer** 👨‍💻 𝘄𝗵𝗼 𝗶𝘀 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝗮𝘁𝗲 𝗮𝗯𝗼𝘂𝘁 **Chess** 𝗮𝗻𝗱 𝗼𝗽𝗲𝗻 𝘀𝗼𝘂𝗿𝗰𝗲.
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wahidullah-shadab-2712031a3/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Wahidul74626845)
