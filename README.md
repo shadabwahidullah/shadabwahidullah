@@ -31,5 +31,5 @@
     
    ### Number of visits:
 <p align="center">
-   <img src="https://profile-counter.glitch.me/{dicodiaz}/count.svg"/>
+   <img src="https://profile-counter.glitch.me/{shadabwahidullah}/count.svg"/>
 </p>
