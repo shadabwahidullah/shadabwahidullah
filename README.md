@@ -12,7 +12,7 @@
 
 ## 🧐 About
 
-- 👨‍💻 **My portfolio**: https://shadabwahidullah.github.io/Portfolio_2/
+- 👨‍💻 **My portfolio**: https://portfolio-2026-one-chi.vercel.app/en
 - 📫 **How to reach me**: shadabwahidullah@gmail.com
 - 🌱 **Languages and Tools**: 
 
